@@ -1,0 +1,6 @@
+MENU PROGRAM HELP
+1 - Greet the user
+2 - Add two integers
+3 - Check even or odd
+4 - Exit the program
+Run the program using: bash exercise-03/menu.sh
