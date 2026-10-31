@@ -1,0 +1,1 @@
+Stash exercise: changes were saved using git stash, inspected using git stash list, and restored using git stash apply. The restored README changes were committed.

@@ -1,0 +1,1 @@
+A merge conflict was created by changing the same line in mode.txt on main and feature/conflict. The conflict was resolved manually. Final content: Mode: main and feature changes merged.

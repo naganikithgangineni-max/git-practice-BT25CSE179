@@ -1,0 +1,1 @@
+Git version checked. Repository-local Git username configured as Naganikith Gangineni.

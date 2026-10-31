@@ -1,0 +1,1 @@
+In the cloned repository, ran git fetch origin, inspected main..origin/main, ran git pull --ff-only origin main, verified exercise-15/update.txt and confirmed a clean working tree.

@@ -1,0 +1,1 @@
+Published the repository to GitHub and cloned it into D:\study\git-practice-BT25CSE179-clone. Verified the remote URL and inspected the commit history.
