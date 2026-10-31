@@ -19,3 +19,6 @@ bash exercise-03/greet.sh
 
 ## Issues and Pull Requests
 Links will be added after creation.
+
+## Git Diff Practice
+This section demonstrates Git diff commands.
