@@ -22,3 +22,6 @@ Links will be added after creation.
 
 ## Git Diff Practice
 This section demonstrates Git diff commands.
+
+## Stash Practice
+This change was temporarily stashed and later restored.
